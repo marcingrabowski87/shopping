@@ -1,0 +1,11 @@
+{
+    "version": 3,
+    "mappings": "AECG,AAAD,SAAK,CAAC;EACJ,eAAe,EAAE,IAAI;CACtB",
+    "sources": [
+        "../sass/style.scss",
+        "../sass/_settings.scss",
+        "../sass/components/_form.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}
